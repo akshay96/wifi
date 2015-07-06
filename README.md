@@ -1,6 +1,6 @@
 # wifi
-wifi configration
-Building configuration...
+$ git wifi configration
+$ git Building configuration...
 Current configuration : 723 bytes
 !
 version 12.4
